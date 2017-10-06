@@ -1,8 +1,8 @@
-# Pinnace REST API Open API Specification
+# Pinnacle REST API Open API Specification
 
 
 ## Description
-This repository contains Pinnace Open API Specification
+This repository contains Pinnacle Open API Specification
 
 - The [/linessapi-oas](./linesapi-oas/) folder contains Lines API OAS 
 - The [/betsapi-oas](./betsapi-oas/) folder contains Bets API OAS 
