@@ -29,7 +29,7 @@
           "application/json"
         ],
         "produces": [
-          "application/json;charset=utf-8"
+          "application/json; charset=utf-8"
         ],
         "parameters": [
           {
