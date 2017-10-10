@@ -26,7 +26,7 @@
         "description": "Place straight bet v1",
         "operationId": "Bets_Straight",
         "consumes": [
-          "application/json"
+          "application/json; charset=utf-8"
         ],
         "produces": [
           "application/json; charset=utf-8"
