@@ -42,13 +42,17 @@
       // list of APIS
       var apis = [
         {
-          name: 'Bets API',
-          url: 'https://pinnacleapi.github.io/betsapi-oas/betsapi-oas.json'
+          name: 'Customer API',
+          url: 'https://raw.githubusercontent.com/pinnacleapi/pinnacleapi.github.io/master/customerapi-oas/customerapi-oas.json'
         },
         {
           name: 'Lines API',
           url: 'https://pinnacleapi.github.io/linesapi-oas/linesapi-oas.json'
-        }
+        },  
+        {
+          name: 'Bets API',
+          url: 'https://pinnacleapi.github.io/betsapi-oas/betsapi-oas.json'
+        }    
       ];
       // initially render first API
       Redoc.init(apis[0].url);
