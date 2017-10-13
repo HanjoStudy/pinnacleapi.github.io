@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Pinnacle - Customer API Specification
-x-logo:
+  x-logo:
     url: 'https://avatars2.githubusercontent.com/u/31601407?s=400&u=f3c6e1cfc8a26665e4a4df6d8da4a7ee527aeceb&v=4'
 host: api.pinnacle.com
 schemes:
