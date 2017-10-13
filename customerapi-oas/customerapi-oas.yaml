@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Pinnacle - Customer API Specification
-  description:  |
+  description: |
      
     # Authentication 
     
