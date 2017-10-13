@@ -6,7 +6,7 @@ info:
 info:
   version: 1.0.0
   title: Pinnacle - Bets API Specification
-  description: All about bets, place bets, get your bet history or individual bet status. 
+  description: 'All about bets, place bets, get your bet history or current bet status.' 
   x-logo:
     url: 'https://avatars2.githubusercontent.com/u/31601407?s=400&u=f3c6e1cfc8a26665e4a4df6d8da4a7ee527aeceb&v=4'
 host: api.pinnacle.com
