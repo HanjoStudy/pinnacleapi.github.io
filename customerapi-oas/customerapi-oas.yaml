@@ -2,6 +2,17 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Pinnacle - Customer API Specification
+  description:  |
+     
+    # Authentication 
+    
+    API uses HTTP Basic access authentication.You need to send Authorization HTTP Request header:  
+    
+    `Authorization: Basic <Base64 value of UTF-8 encoded "username:password">`
+    
+    Example:
+    
+    `Authorization: Basic U03MyOT23YbzMDc6d3c3O1DQ1`
   x-logo:
     url: 'https://avatars2.githubusercontent.com/u/31601407?s=400&u=f3c6e1cfc8a26665e4a4df6d8da4a7ee527aeceb&v=4'
 host: api.pinnacle.com
